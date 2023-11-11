@@ -1,5 +1,5 @@
 ---
-layout: '../../layouts/Post.astro'
+layout: '../layouts/Post.astro'
 title: 'SSR, SSG, ISR: What the heck are these?'
 image: /images/web-design
 publishedAt: 2023-11-11
