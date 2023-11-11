@@ -6,9 +6,9 @@ publishedAt: 2023-11-11
 category: 'Frontend'
 ---
 
-In the vast expanse of the web, three enchanting wizards, SSR, SSG, and ISR, weave the fabric of our digital experiences. Let's embark on a journey to understand the magic behind Server-Side Rendering (SSR), Static Site Generation (SSG), and Incremental Static Regeneration (ISR).
+In the vast expanse of the web, three enchanting wizards, SSR, SSG, and ISR, become the backbone of our digital experiences. Let's understand the magic behind Server-Side Rendering (SSR), Static Site Generation (SSG), and Incremental Static Regeneration (ISR).
 
-Imagine a magical realm where web pages come to life in different ways. SSR is akin to a skilled artist who paints a masterpiece on demand. Whenever a visitor asks for a webpage, SSR dynamically crafts it on the server, delivering the latest content but with a touch of delay.
+Imagine a magical realm where web pages come to life in different ways. SSR is a skilled artist who paints a masterpiece on demand. Whenever a visitor asks for a webpage, SSR dynamically crafts it on the server, delivering the latest content but with a touch of delay.
 
 Enter SSG, a prolific storyteller who prepares tales in advance. Instead of creating pages on the spot, SSG pre-builds them during a special event, like crafting storybooks before a grand storytelling session. This approach ensures instant page delivery, especially suitable for websites with predominantly static content.
 
