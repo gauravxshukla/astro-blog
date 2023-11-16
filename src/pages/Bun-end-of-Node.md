@@ -23,7 +23,7 @@ The goal of Bun is to run most of the world's server-side JavaScript and provide
 
 Bun is fast because it uses uses [JavaScriptCore](https://developer.apple.com/documentation/javascriptcore) (JSC), which is an open source JavaScript engine developed by Apple for Safari, While Node.js uses Google's [V8 engine](https://v8.dev/) that power's Chrome browser. The former has been optimized for faster startup time.
 
-![image](https://www.freecodecamp.org/news/content/images/2023/09/But-why-is-that-relevant.png)
+![image](/images/But-why-is-that-relevant.png)
 
 ### **No need of NPM, YARN?**
 
@@ -37,7 +37,7 @@ You can replace `npm run` with `bun run` to save over 150ms milliseconds eve
 
 Here is the full chart:
 
-![image](/public/images/npm-yarn.png)
+![image](/images/npm-yarn.png)
 
 From the chart above, using `npm` takes about 176ms to run, `yarn` takes about 131ms. In the case of `pnpm`, it takes 259ms. However, it takes about 7ms in the case of `Bun`. That's fast, isn't it?
 
